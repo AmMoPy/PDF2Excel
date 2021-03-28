@@ -9,4 +9,4 @@ Python 3 using tabula and pandas libraries.
 ### Why this method
 - Preserve confidentiality, no need to expose your data to a third party for conversion.
 - Convenient if you are dealing with large dataset extracted in XPS/PDF format.
-- Convert, edit, save all at once.
+- Convert, edit and save all at once.
